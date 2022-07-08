@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(21, 136,6);
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.details_form {
+    background-color:aqua;
+    padding: 10px;
+    margin: 10px 270px;
+}
+label {
+    color: red;
+}
+
+.text {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+input {
+    width: 96%;
+    padding-right: 10px;
+    padding-top: 3px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input_data {
+    margin-bottom: 30px;
+}
+ 
+button {
+    background-color:chartreuse;
+    padding: 5px;
+    width: 90%;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.para {
+    color: white;
+    margin-left: 30%;
+    text-transform: capitalize;
+    font-weight: 40
+}
